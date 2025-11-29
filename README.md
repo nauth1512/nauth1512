@@ -36,19 +36,6 @@
 
   <br/><br/>
 
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nauth1512&show_icons=true&theme=midnight&hide_border=true" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauth1512&layout=compact&theme=midnight&hide_border=true" height="180" />
-      </td>
-    </tr>
-  </table>
-
-  <br/><br/>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=120&section=footer&text=END%20OF%20LINE_&fontSize=30&fontAlignY=40&fontColor=00f2ea&animation=fadeIn" width="100%" />
 
 </div>
